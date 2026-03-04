@@ -48,4 +48,5 @@ public class LoanModel {
     private String rejectionReasons;
 
     private LocalDateTime createdAt;
+
 }
